@@ -1,0 +1,313 @@
+
+.menu-ul{
+    list-style-type: none;
+    margin: 0;
+    float: right;
+    margin-right: 60px;
+}
+.menu-ul li{
+    display: inline-block; 
+    margin-left: 0px;
+    text-decoration: none;
+    margin-top: 30px;
+    margin-right: 10px;
+    padding: 7px;
+}
+
+.decoration{
+    text-decoration: none;
+   font-size: 30px;
+    font-weight:650;
+    color: aliceblue;
+}
+.decoration:hover{
+    text-decoration: none;
+   font-size: 30px;
+   background-color:rgb(222, 200, 130); 
+    font-weight:650;
+    color: white;
+    padding: 10px;
+}
+.logo
+{
+    width : 100px;
+    height: 100px;
+    margin-left:50px;
+}
+.main-div
+{
+    background-color:#2e2e2e;
+    box-shadow: 5px 5px 28px #1b1b1b;
+  /*  margin-bottom: 30px; */
+    margin-bottom: 3px;
+}
+.input
+{
+    display: inline;
+    width: 400px;
+    height: 40px;
+    margin-left: 200px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+#abc
+{
+    color:white; 
+    font-size: 30px; 
+    background-color:rgb(222, 200, 130);
+    padding-top:4px;
+    padding-bottom:10px;
+    padding-left: 10px;
+    padding-right: 15px;
+    margin-left: 6px;   
+}
+.footer-logo
+{
+    height: 40px;
+    width: 40px;
+    margin-left: 23px;
+}
+.main-div-footer
+{
+    font-family: 'Rubik', sans-serif;
+    display: flex;
+    flex-direction: rows;
+    background-color:#2e2e2e;
+    height: 100%;
+    width: 100%;
+    padding:15px;
+    color: aliceblue;
+    padding: 20px;
+}
+
+/* neel */
+.main-div-center
+{
+  font-family:"Verdana";
+  color:white;
+  font-size: 1.4rem;
+  background-image: url(./simple-background.jpg);
+    background-size: cover;
+    padding: 30px;
+  
+}
+
+/*header
+{
+  background-color: white;
+  color:blue;
+  margin-left: -26px;
+  margin-right: 10px;
+  margin-top:-10px;
+  margin-bottom: 20px;
+
+}*/
+.title_mar
+{
+    margin: 0px;
+}
+span
+{
+  display: inline-block;
+}
+
+/*footer
+{
+  float: right;
+  background-color: white;
+  color:blue;
+  margin-left: -26px;
+  margin-right: 10px;
+  margin-top:-10px;
+  margin-bottom: 20px;
+
+}*/
+/* kalal*/
+.card-div
+{
+    display: flex;
+    margin:10px;
+    perspective: 700;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:  space-around;
+}
+.front
+{
+    font-size: 40px;
+}
+.flo
+{
+    float: right;
+}
+.foot1
+{
+    margin-left: 30px;
+    display:flex;
+    flex-direction: column;
+    width:33.33%;
+
+}
+.foot2
+{
+    display:flex;
+    flex-direction: column;
+    width:30%;
+}
+.foot3
+{
+    width:40%;
+}
+.marg1
+{
+    margin-left: 70px;
+    margin-bottom: 20px;
+    font-weight: 900;
+    font-size: 20px;
+}
+.marg2
+{
+    margin-left: 60px;
+    font-weight: 700;
+    font-size:17px;
+}
+.col
+{
+    background-color:#2e2e2e;
+    font-family: 'Rubik', sans-serif;
+    color: aliceblue;
+    border-top: 4px solid #333333;
+    margin: 0px;
+    padding: 9px;
+}
+.toggle_button
+{
+    display:flex;
+    flex-direction:column;
+}
+.Contact_img
+{
+    height:350px;
+    width:1518px;
+}
+.Contact_det1
+{
+    display: flex;
+    flex-direction: row;
+    color:rgb(82, 21, 21);
+    background-color: #dec882;
+    font-weight: 500;
+}
+.Contect_sub1
+{
+    padding: 50px;
+}
+.Contact_img2
+{
+    padding: 30px;
+}
+.Contect_sub2
+{
+    padding-left: 50px;
+    padding-right: 20px;
+}
+.Col1
+{  
+    color:#948E5c;
+    font-weight: 700;
+}
+.col2
+{
+    color:#2e2e2e;
+    font-weight: 500;
+}
+.Contact_Set
+{
+    color:white;
+    font-size: 50px;
+    font-weight: 500;
+    margin-top:-100px;
+    margin-left: 640px;
+}
+.Contact_det2
+{
+    display: flex;
+    flex-direction: row;
+    color:rgb(82, 21, 21);
+    background-color: #dec882;
+    font-weight: 500; 
+    border-top:solid white; 
+}
+.set_img1
+{
+    height: 300px;
+    width:300px;
+    margin-left: 400px;
+    color: red;
+}
+.set_img2
+{
+    height: 260px;
+    width:260px;
+    margin-left: -168px;
+}
+.set_img3
+{
+    height: 300px;
+    width:300px;
+    margin-left: -168px;
+}
+.main_set_re
+{
+    display: flex;
+    flex-direction: row;   
+}
+.heap_line1
+{
+    height: 100px;
+    width: 110px;
+    margin-left: -1300px;
+   
+}
+.heap_line2
+{
+    height: 100px;
+    width: 50px;
+}
+.heap_line3
+{
+    height: 100px;
+    width: 50px;
+}
+.heap_line4
+{
+    height: 100px;
+    width: 110px;
+}
+.heap_line5
+{
+    height: 100px;
+    width: 50px;
+}
+.heap_line6
+{
+    height: 100px;
+    width: 50px; 
+}
+/*.mar6
+{
+    background-color:
+}*/
+.last_brak
+{
+    color: white;
+    margin-left: 90px;
+    font-weight: 700;
+}
+.last_brak1
+{
+    color: white;
+    margin-left:240px;
+    font-weight: 700;
+}

@@ -1,0 +1,214 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+ 
+body
+{
+  background-image: url("C:/Users/savan hapani/react/intership/main_project/src/the-background-686237_960_720.jpg");
+}
+.con
+{
+  display: flex;
+  flex-direction: row;
+ /* background-image: linear-gradient(to right bottom, rgba(126,213,111,0.6),#F4E4AE);*/
+ background-image: url("C:/Users/savan hapani/react/intership/main_project/src/images1.jpg");
+  background-size: cover;
+  background-position: top;
+  height:500px;
+  width: 1517px;
+  padding: 50px;
+  font-size: 1.5rem;
+}
+.con1
+{
+  display: flex;
+  flex-direction: column;
+ /* background-image: linear-gradient(to right bottom, rgba(126,213,111,0.6),#F4E4AE);*/
+ background-image: url("C:/Users/savan hapani/react/intership/main_project/src/images1.jpg");
+  background-size: cover;
+  background-position: top;
+  height:500px;
+  width: 1518px;
+  padding: 50px;
+  font-size: 1.5rem;
+}
+.con2
+{
+  display: flex;
+  flex-direction: row;
+ /* background-image: linear-gradient(to right bottom, rgba(126,213,111,0.6),#F4E4AE);*/
+ background-image: url("C:/Users/savan hapani/react/intership/main_project/src/images1.jpg");
+  background-size: cover;
+  background-position: top;
+  height:500px;
+  width: 1519px;
+  padding: 50px;
+  font-size: 1.5rem;
+}
+.set_name
+{
+  display :flex;
+  flex-direction: row;
+}
+.box
+{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+ /* background-image: radial-gradient(#948E5c,#948E5c);*/
+  font-weight: 700;
+  color:white;
+
+}
+
+.box_set
+{
+  font-weight: 700;
+  color:white;
+}
+.box_set1
+{
+  font-weight: 700;
+  color:white;
+  margin-right: 550px;
+}
+.box_set2
+{
+  font-weight: 700;
+  color:white;
+}
+.box_set3
+{
+  font-weight: 700;
+  color:white;
+}
+.box_set4
+{
+  font-weight: 700;
+  color:white;
+  margin-left: 145px;
+}
+.sortb
+{
+  background-image: url("C:/Users/savan hapani/react/intership/main_project/src/button.jpg");
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top:-20px;
+  margin-right:322px;
+  color:white;
+}
+.sort01
+{
+background-image: url("C:/Users/savan hapani/react/intership/main_project/src/button.jpg");
+font-size: 1.5rem;
+font-weight: 700;
+margin-top:-60px;
+margin-right:322px;
+color:white;
+}
+.sortb1
+{
+  background-image: url("C:/Users/savan hapani/react/intership/main_project/src/button.jpg");
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top:-60px;
+  float: left;
+  margin-left:30px;
+  color:white;
+}
+.sortba
+{
+  background-image: url("C:/Users/savan hapani/react/intership/main_project/src/button.jpg");
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-right:300px;
+  color:white;
+}
+.lb
+{
+  height: 300px;
+}
+.imghw
+{
+  height: 200px;
+  width: 200px;
+  position: relative;
+}
+.ma
+{
+  position:absolute;
+}
+.mar1
+{
+font-size: 1.8rem;
+margin-top: -60px;
+margin-left: 100px;
+background-color: #DEC8;
+width:120px;
+}
+.mar6
+{
+  background-color: #DEC8;
+  height: 40px;
+  width:160px;
+  margin-top:35px;
+}
+.mar8
+{
+  
+  background-color: #DEC8;
+  height: 40px;
+  width:130px;
+  margin-top:250px;
+  margin-left:-165px;
+}
+
+.b1
+{
+  display:flex;
+  flex-direction: row;
+}
+.but1
+{
+  width:100%;
+  background-color: rgb(6, 102, 147);
+  color:white;
+  font-size: 20px;
+  font-weight: 500;
+}
+.box_set4_union
+{
+  margin-left: 330px;
+  color: white;
+  font-weight: 700;
+}
